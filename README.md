@@ -53,6 +53,8 @@ Using this plugin, you only needs to select the base folder that you want to exp
                 - _RX06003.jpg
                 - _RX06004.jpg
                 - _RX06006.jpg
+```
+
 
 ### Build with
 
@@ -62,7 +64,7 @@ Using this plugin, you only needs to select the base folder that you want to exp
 
 1. Download the Plugin:
     * Download the `CollectionExporter.lrplugin` folder from the repository. You can clone the repository or click in the download button:
-    <a align="center">Download</a>
+    [![Download][Download]][Download-url]
 
 2. Install the Plugin in Lightroom:
     * Open Lightroom.
@@ -70,3 +72,6 @@ Using this plugin, you only needs to select the base folder that you want to exp
     * Click `Add`.
     * Navigate to the location where you downloaded the plugin and select the `CollectionExporter.lrplugin` folder.
     * Click `Add Plugin`.
+
+[Download]: https://img.shields.io/badge/download?style=plastic&logo=adobelightroomclassic
+[Download-url]: https://github.com/apoloa/collectionexporter.lrplugin/archive/refs/heads/main.zip
