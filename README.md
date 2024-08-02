@@ -115,4 +115,4 @@ Using this plugin, you only need to select the base folder where you want to exp
 [issues-shield]: https://img.shields.io/github/issues/apoloa/collectionexporter.lrplugin.svg?style=for-the-badge
 [issues-url]: https://github.com/apoloa/collectionexporter.lrplugin/issues
 [license-shield]: https://img.shields.io/github/license/apoloa/collectionexporter.lrplugin.svg?style=for-the-badge
-[license-url]: https://github.com/apoloa/collectionexporter.lrplugin/blob/master/LICENSE.txt
+[license-url]: https://github.com/apoloa/collectionexporter.lrplugin/blob/master/LICENSE
