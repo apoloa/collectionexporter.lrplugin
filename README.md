@@ -65,10 +65,12 @@ Using this plugin, you only needs to select the base folder that you want to exp
 1. Download the Plugin:
     * Download the `CollectionExporter.lrplugin` folder from the repository. You can clone the repository or click in the download button:
     <div align="center">
-      [![Download][Download]][Download-url]
+      <a href="httpshttps://github.com/apoloa/collectionexporter.lrplugin/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/downloadzip-blue?style=for-the-badge&logo=adobelightroomclassic&logoColor=%23001e36&logoSize=amg&labelColor=white" alt="Download">
+  </a>
     </div>  
 
-2. Install the Plugin in Lightroom:
+1. Install the Plugin in Lightroom:
     * Open Lightroom.
     * Go to `File` > `Plugin Manager`.
     * Click `Add`.
