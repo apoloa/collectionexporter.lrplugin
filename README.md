@@ -69,7 +69,7 @@ Using this plugin, you only need to select the base folder where you want to exp
 1. Download the Plugin:
     * Download the `CollectionExporter.lrplugin` folder from the repository. You can clone the repository or click in the download button:
     <div align="center">
-      <a href="httpshttps://github.com/apoloa/collectionexporter.lrplugin/archive/refs/heads/main.zip">
+      <a href="https://github.com/apoloa/collectionexporter.lrplugin/archive/refs/heads/main.zip">
         <img src="https://img.shields.io/badge/downloadzip-blue?style=for-the-badge&logo=adobelightroomclassic&logoColor=%23001e36&logoSize=amg&labelColor=white" alt="Download">
       </a>
     </div>  
