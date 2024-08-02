@@ -5,7 +5,7 @@
     <img src="images/icon.png" alt="Logo" width="160" height="160">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Collection Exporter Lightroom Classic Plugin</h3>
 </div>
 
 <details>
