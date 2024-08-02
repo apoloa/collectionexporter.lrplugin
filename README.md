@@ -18,8 +18,12 @@
       </ul>
     </li>
   </ol>
+  <ol>
+    <li>
+      <a href="#intallation">Installation</a>
+    </li>
+  </ol>
 </details>
-
 
 ## About The Project
 
@@ -60,7 +64,7 @@ Using this plugin, you only needs to select the base folder that you want to exp
 
 * [![Lua][Lua]][Lua-url]
 
-### Intallation
+## Installation
 
 1. Download the Plugin:
     * Download the `CollectionExporter.lrplugin` folder from the repository. You can clone the repository or click in the download button:
@@ -76,6 +80,18 @@ Using this plugin, you only needs to select the base folder that you want to exp
     * Click `Add`.
     * Navigate to the location where you downloaded the plugin and select the `CollectionExporter.lrplugin` folder.
     * Click `Add Plugin`.
+
+## Usage
+1. Select Photos:
+   * In Lightroom, select the photos you want to export.
+2. Export Photos:
+   * Go to `File` > `Export`.
+   * In the export dialog, select `Collection Exporter` in the `Export To` dropdown`.
+    ![](images/export_to.png)
+   * Configure any additional export settings as needed.
+   * Click Export.
+   * Enjoy
+
 
 [Lua]: https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white
 [Lua-url]: https://www.lua.org/
