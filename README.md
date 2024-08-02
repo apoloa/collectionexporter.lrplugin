@@ -1,4 +1,11 @@
 <br>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 <div >
 <div align="center">
   <a href="https://github.com/apoloa/collectionexporter.lrplugin">
@@ -73,7 +80,7 @@ Using this plugin, you only need to select the base folder where you want to exp
         <img src="https://img.shields.io/badge/downloadzip-blue?style=for-the-badge&logo=adobelightroomclassic&logoColor=%23001e36&logoSize=amg&labelColor=white" alt="Download">
       </a>
     </div>
-    
+
     * Extract the zip
     * Rename the folder from `CollectionExporter.lrplugin-main` to `CollectionExporter.lrplugin`
 
@@ -98,3 +105,14 @@ Using this plugin, you only need to select the base folder where you want to exp
 
 [Lua]: https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white
 [Lua-url]: https://www.lua.org/
+
+[contributors-shield]: https://img.shields.io/github/contributors/apoloa/collectionexporter.lrplugin.svg?style=for-the-badge
+[contributors-url]: https://github.com/apoloa/collectionexporter.lrplugin/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/apoloa/collectionexporter.lrplugin.svg?style=for-the-badge
+[forks-url]: https://github.com/apoloa/collectionexporter.lrplugin/network/members
+[stars-shield]: https://img.shields.io/github/stars/apoloa/collectionexporter.lrplugin.svg?style=for-the-badge
+[stars-url]: https://github.com/apoloa/collectionexporter.lrplugin/stargazers
+[issues-shield]: https://img.shields.io/github/issues/apoloa/collectionexporter.lrplugin.svg?style=for-the-badge
+[issues-url]: https://github.com/apoloa/collectionexporter.lrplugin/issues
+[license-shield]: https://img.shields.io/github/license/apoloa/collectionexporter.lrplugin.svg?style=for-the-badge
+[license-url]: https://github.com/apoloa/collectionexporter.lrplugin/blob/master/LICENSE.txt
