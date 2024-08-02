@@ -7,7 +7,7 @@
 
   <h3 align="center">Collection Exporter Lightroom Classic Plugin</h3>
 </div>
-<br>
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -19,3 +19,4 @@
     </li>
   </ol>
 </details>
+
