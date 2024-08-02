@@ -5,11 +5,6 @@ local LrDialogs = import 'LrDialogs'
 
 CollectionExporter = {}
 
-local function getPhotoFolderPath(photo)
-    local photoPath = photo:getRawMetadata('path')
-    return photoPath:match("(.+)/[^/]+$")
-end
-
 function CollectionExporter.processRenderedPhotos( functionContext, exportContext)
 
     -- Make a local reference for the export parameters
