@@ -64,7 +64,9 @@ Using this plugin, you only needs to select the base folder that you want to exp
 
 1. Download the Plugin:
     * Download the `CollectionExporter.lrplugin` folder from the repository. You can clone the repository or click in the download button:
-    [![Download][Download]][Download-url]
+    <div align="center">
+      [![Download][Download]][Download-url]
+    </div>  
 
 2. Install the Plugin in Lightroom:
     * Open Lightroom.
