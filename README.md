@@ -72,7 +72,9 @@ Using this plugin, you only need to select the base folder where you want to exp
       <a href="https://github.com/apoloa/collectionexporter.lrplugin/archive/refs/heads/main.zip">
         <img src="https://img.shields.io/badge/downloadzip-blue?style=for-the-badge&logo=adobelightroomclassic&logoColor=%23001e36&logoSize=amg&labelColor=white" alt="Download">
       </a>
-    </div>  
+    </div>
+    * Extract the zip
+    * Rename the folder from `CollectionExporter.lrplugin-main` to `CollectionExporter.lrplugin`
 
 1. Install the Plugin in Lightroom:
     * Open Lightroom.
