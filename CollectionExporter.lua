@@ -52,8 +52,10 @@ function CollectionExporter.processRenderedPhotos( functionContext, exportContex
 			local outputFolderPath = LrPathUtils.child(basePath, folder)
 			-- Create the required directory
 			LrFileUtils.createAllDirectories(outputFolderPath)
+			-- We need to extract the name with the output extension
+			local fileNameOutput = LrPathUtils.leafName(pathOrMessage)
 			-- Path where the image will finally go, in this case it will contain the original path + catalog folder + image name
-			local outputFile = LrPathUtils.child(outputFolderPath, fileName)
+			local outputFile = LrPathUtils.child(outputFolderPath, fileNameOutput)
 
 			-- Move the file to the correct path
 			local success, moveMessage = LrFileUtils.move(pathOrMessage, outputFile)
@@ -63,7 +65,7 @@ function CollectionExporter.processRenderedPhotos( functionContext, exportContex
 				if moveMessage then
 					error = moveMessage
 				end
-                LrDialogs.message("Error", "Failed to move file from " .. pathOrMessage .. " to " .. outputFile .. " reason: " .. moveMessage, "critical")
+                LrDialogs.message("Error", "Failed to move file from " .. pathOrMessage .. " to " .. outputFile .. " reason: " .. error, "critical")
             end	
 		end
 		
